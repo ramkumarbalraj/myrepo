@@ -1,0 +1,82 @@
+New
+:exclamation:
+Verizon SAP AlarmsAPP  2:12 AM
+Email 
+[Alerting] MirrorMaker [0060]: Lenexa alert
+Today at 2:12 AM
+From Grafana
+[Alerting] MirrorMaker [0060]: Lenexa alert Metric name Value EdrFlow 0.000 EdrHttp 0.000 PilotPacket 0.000 View your Alert rule Go to the Alerts page Sent by Grafana v7.3.4 © 2020 Grafana Labs
+Click to expand inline
+
+
+:exclamation:
+Verizon SAP AlarmsAPP  2:54 AM
+Email 
+[Alerting] Batch Job Processing: Lenexa Alert
+Today at 2:54 AM
+From Grafana
+[Alerting] Batch Job Processing: Lenexa Alert Metric name Value {job="MidmBatchJob_Lenexa"} 0.000 View your Alert rule Go to the Alerts page Sent by Grafana v7.3.4 © 2020 Grafana Labs
+Click to expand inline
+
+
+:exclamation:
+Verizon SAP AlarmsAPP  4:37 AM
+Email 
+[Alerting] Lenexa [0142]: BDA Transfer Alert
+Today at 4:37 AM
+From Grafana
+[Alerting] Lenexa [0142]: BDA Transfer Alert Metric name Value BDA Transfer Lag 12601.000 View your Alert rule Go to the Alerts page Sent by Grafana v7.3.4 © 2020 Grafana Labs
+Click to expand inline
+
+
+4:40
+Email 
+[Alerting] Lenexa [0143]: IT Transfer Alert
+Today at 4:40 AM
+From Grafana
+[Alerting] Lenexa [0143]: IT Transfer Alert Metric name Value IT Transfer Lag 12601.000 View your Alert rule Go to the Alerts page Sent by Grafana v7.3.4 © 2020 Grafana Labs
+Click to expand inline
+
+
+:exclamation:
+Verizon SAP AlarmsAPP  7:20 AM
+Email 
+[Alerting] Batch Job Processing: Windsor Alert
+Today at 7:20 AM
+From Grafana
+[Alerting] Batch Job Processing: Windsor Alert Metric name Value {job="MidmBatchJob_Windsor"} 0.000 View your Alert rule Go to the Alerts page Sent by Grafana v7.3.4 © 2020 Grafana Labs
+Click to expand inline
+
+
+:exclamation:
+Verizon SAP AlarmsAPP  7:38 AM
+Email 
+[OK] Batch Job Processing: Windsor Alert
+Today at 7:38 AM
+From Grafana
+[OK] Batch Job Processing: Windsor Alert View your Alert rule Go to the Alerts page Sent by Grafana v7.3.4 © 2020 Grafana Labs
+Click to expand inline
+
+
+white_check_mark
+eyes
+raised_hands
+
+
+
+
+
+
+
+Message vzw-alarms-sap
+
+
+
+
+
+
+
+
+
+
+
